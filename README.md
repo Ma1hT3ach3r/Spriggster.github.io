@@ -24,6 +24,6 @@
 #### Codecamp: Basic CSS
 ![Picture](Capture2.PNG)
 #### Course content: DanShiftman's Dinosaur Game
-![Picture](Capture2.PNG)
+![Picture](epic6.PNG)
 #### MISC: Visual Studio
 ![Picture](Epic1.PNG)
