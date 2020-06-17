@@ -14,9 +14,9 @@
 #### Creating a small game in C#
 ![Picture](Capture123.PNG)
 #### Sprite Batching/Drawing 
-![Picture](Capture2.PNG)
+![Picture](Epic1.PNG)
 #### Intro to JS: Drawing & Animation
-![Picture](Capture2.PNG)
+![Picture](Epic2.PNG)
 #### Basic JavaScript
 ![Picture](Capture2.PNG)
 #### Basic HTML and HTML5
