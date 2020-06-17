@@ -9,7 +9,7 @@
 #### Starting C#
 
 #### Working With Classes
-![Picture](Capture.PNG)
+
 #### Creating a small game in C#
 
 
