@@ -6,7 +6,7 @@
 
 
 
-<p>Starting C# was the first workshop I've ever done for coding outside of school! It brought me out of my comfort zone and dared me to <br> try new things! This was the gate way to C# and tought me the in's and out's of the langauge. All the basic variables and quirks of <br> the system. As well as what I would be dealing with as I carried on through the lessons. This also tought me to be independant with <br>my learning</p>
+<p>Starting C# was the first workshop I've ever done for coding outside of school! It brought me out of my comfort zone and dared me to  try new things! This was the gate way to C# and tought me the in's and out's of the langauge. All the basic variables and quirks of the system. As well as what I would be dealing with as I carried on through the lessons. This also tought me to be independant with my learning</p>
 
 
 
