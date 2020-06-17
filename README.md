@@ -16,7 +16,7 @@
 #### Sprite Batching/Drawing 
 ![Picture](epic0.5.PNG)
 #### Khan: Intro to JS: Drawing & Animation
-![Picture](epic2.PNG)
+![Picture](Epic2.PNG)
 #### Codecamp: Basic JavaScript
 ![Picture](Capture2.PNG)
 #### Codecamp: Basic HTML and HTML5
