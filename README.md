@@ -15,15 +15,15 @@
 ![Picture](Capture123.PNG)
 #### Sprite Batching/Drawing 
 ![Picture](Epic1.PNG)
-#### Intro to JS: Drawing & Animation
+#### Khan: Intro to JS: Drawing & Animation
+![Picture]()
+#### Codecamp: Basic JavaScript
+![Picture](Capture2.PNG)
+#### Codecamp: Basic HTML and HTML5
+![Picture](Capture2.PNG)
+#### Codecamp: Basic CSS
+![Picture](Capture2.PNG)
+#### Course content: DanShiftman's Dinosaur Game
+![Picture](Capture2.PNG)
+#### MISC: Visual Studio
 ![Picture](Epic2.PNG)
-#### Basic JavaScript
-![Picture](Capture2.PNG)
-#### Basic HTML and HTML5
-![Picture](Capture2.PNG)
-#### Basic CSS
-![Picture](Capture2.PNG)
-#### DanShiftman's Dinosaur Game
-![Picture](Capture2.PNG)
-#### Visual Studio
-![Picture](Capture2.PNG)
