@@ -20,7 +20,7 @@
 #### Codecamp: Basic JavaScript
 ![Picture](epic4.PNG)
 #### Codecamp: Basic HTML and HTML5
-![Picture]()
+![Picture](epic3.PNG)
 #### Codecamp: Basic CSS
 ![Picture](epic5.PNG)
 #### Course content: DanShiftman's Dinosaur Game
