@@ -14,9 +14,9 @@
 #### Creating a small game in C#
 ![Picture](Capture123.PNG)
 #### Sprite Batching/Drawing 
-![Picture](Epic0.5.PNG)
+![Picture](epic0.5.PNG)
 #### Khan: Intro to JS: Drawing & Animation
-![Picture](Epic2.PNG)
+![Picture](epic2.PNG)
 #### Codecamp: Basic JavaScript
 ![Picture](Capture2.PNG)
 #### Codecamp: Basic HTML and HTML5
