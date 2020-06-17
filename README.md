@@ -4,4 +4,12 @@
 
 ### C-Sharp 1-3
 
-<p> I've done quite a few C# WorkShops and I would like to share each one with you!</p>
+<p> I've done quite a few C# WorkShops and I would like to share the best ones with you!</p>
+
+#### Starting C#
+
+#### Working With Classes
+![Picture](Capture.PNG)
+#### Creating a small game in C#
+
+
