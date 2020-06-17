@@ -14,9 +14,9 @@
 #### Creating a small game in C#
 ![Picture](Capture123.PNG)
 #### Sprite Batching/Drawing 
-![Picture](Epic1.PNG)
-#### Khan: Intro to JS: Drawing & Animation
 ![Picture]()
+#### Khan: Intro to JS: Drawing & Animation
+![Picture](Epic2.PNG)
 #### Codecamp: Basic JavaScript
 ![Picture](Capture2.PNG)
 #### Codecamp: Basic HTML and HTML5
@@ -26,4 +26,4 @@
 #### Course content: DanShiftman's Dinosaur Game
 ![Picture](Capture2.PNG)
 #### MISC: Visual Studio
-![Picture](Epic2.PNG)
+![Picture](Epic1.PNG)
