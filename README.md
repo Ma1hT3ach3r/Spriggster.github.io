@@ -18,9 +18,9 @@
 #### Khan: Intro to JS: Drawing & Animation
 ![Picture](Epic2.PNG)
 #### Codecamp: Basic JavaScript
-![Picture](Capture2.PNG)
+![Picture](epic4.PNG)
 #### Codecamp: Basic HTML and HTML5
-![Picture](Capture2.PNG)
+![Picture](epic5.PNG)
 #### Codecamp: Basic CSS
 ![Picture](Capture2.PNG)
 #### Course content: DanShiftman's Dinosaur Game
