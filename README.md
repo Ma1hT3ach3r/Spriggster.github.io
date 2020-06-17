@@ -7,9 +7,9 @@
 <p> I've done quite a few C# WorkShops and I would like to share the best ones with you!</p>
 
 #### Starting C#
-
+![Picture]()
 #### Working With Classes
-
+![Picture]()
 #### Creating a small game in C#
-
+![Picture]()
 
